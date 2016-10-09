@@ -1,7 +1,5 @@
 # Google Interview University
 
-_If you like this project, please give me a star._ &#9733;
-
 ## What is it?
 
 This is my multi-month study plan for going from web developer (self-taught, no CS degree) to Google software engineer.
@@ -104,75 +102,11 @@ sometimes word-for-word in Google's coaching notes.
 
 ---
 
-## Why use it?
-
-I'm following this plan to prepare for my Google interview. I've been building the web, building
-services, and launching startups since 1997. I have an economics degree, not a CS degree.  I've
-been very successful in my career, but I want to work at Google. I want to progress into larger systems
-and get a real understanding of computer systems, algorithmic efficiency, data structure performance,
-low-level languages, and how it all works. And if you don't know any of it, Google won't hire you.
-
-When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, anything about trees, or how to
-traverse a graph. If I had to code a sorting algorithm, I can tell ya it wouldn't have been very good.
-Every data structure I've ever used was built into the language, and I didn't know how they worked
-under the hood at all. I've never had to manage memory, unless a process I was running would give an "out of
-memory" error, and then I'd have to find a workaround. I've used a few multi-dimensional arrays in my life and
-thousands of associative arrays, but I've never created data structures from scratch.
-
-But after going through this study plan I have high confidence I'll be hired. It's a long plan. It's going to take me
-months. If you are familiar with a lot of this already it will take you a lot less time.
-
-## How to use it
-
-Everything below is an outline, and you should tackle the items in order from top to bottom.
-
-I'm using Github's special markdown flavor, including tasks lists to check my progress.
-
-I check each task box at the beginning of a line when I'm done with it. When all sub-items in a block are done,
-I put [ ] at the top level, meaning the entire block is done. Sorry you have to remove all my [ ] markings
-to use this the same way. If you search/replace, just replace [ ] with [ ].
-Sometimes I just put a [ ] at top level if I know I've done all the subtasks, to cut down on clutter.
-
-More about Github flavored markdown: https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown
-
-    I have a friendly referral already to get my resume in at Google. Thanks JP.
-
 ## Get in a Googley Mood
 
 Print out a "[future Googler](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)" sign (or two) and keep your eyes on the prize.
 
 [![future Googler sign](https://dng5l3qzreal6.cloudfront.net/2016/Oct/Screen_Shot_2016_10_04_at_10_13_24_AM-1475601104364.png)](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)
-
-## Did I Get the Job?
-
-I haven't applied yet.
-
-I still have a few days in the learning phase (finishing up this crazy list), and starting next week all 
-I'll be doing is programming questions all day long. That will continue for a few weeks, and then I'll
-apply through a referral I've been holding onto since February (yes, February).
-
-In a couple of days I'll remove the checks from all the checkboxes. This started out as just a simple to-do list. :)
-
-## Follow Along with Me
-
-I'm on the journey, too. Follow along on my blog at [GoogleyAsHeck.com](https://googleyasheck.com/)
-
-- Twitter: [@googleyasheck](https://twitter.com/googleyasheck)
-- Twitter: [@StartupNextDoor](https://twitter.com/StartupNextDoor)
-- Google+: [+Googleyasheck](https://plus.google.com/+Googleyasheck)
-- LinkedIn: [johnawasham](https://www.linkedin.com/in/johnawasham)
-
-![John Washam - Google Interview University](https://dng5l3qzreal6.cloudfront.net/2016/Aug/book_stack_photo_resized_18_1469302751157-1472661280368.png)
-
-## Don't feel you aren't smart enough
-- Google engineers are smart, but many have an insecurity that they aren't smart enough, even though they work at Google.
-- The myth of the Genius Programmer: https://www.youtube.com/watch?v=0SARbwvhupQ
-
-## About Video Resources
-
-Some videos are available only by enrolling in a Coursera or EdX class. It is free to do so, but sometimes the classes
-are no longer in session so you have to wait a couple of months, so you have no access. I'm going to be adding more videos
-from public sources and replacing the online course videos over time. I like using university lectures.
 
 ## Interview Process & General Interview Prep
 
@@ -218,7 +152,7 @@ You need to be very comfortable in the language, and be knowledgeable. Read more
 You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
 
 - [ ] **How computers process a program:**
-    - [ ] https://www.youtube.com/watch?v=42KTvGYQYnA
+    - [x] https://www.youtube.com/watch?v=42KTvGYQYnA
     - [ ] https://www.youtube.com/watch?v=Mv2XQgpbTNE
 
 - [ ] **How floating point numbers are stored:**
