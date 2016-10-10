@@ -685,7 +685,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
 
 - ### Combinatorics (n choose k) & Probability
     - [ ] Math Skills: How to find Factorial, Permutation and Combination (Choose): https://www.youtube.com/watch?v=8RRo6Ti9d0U
-    - [ ] Make School: Probability: https://www.youtube.com/watch?v=sZkAAk9Wwa4
+    - [x] Make School: Probability: https://www.youtube.com/watch?v=sZkAAk9Wwa4
     - [ ] Make School: More Probability and Markov Chains: https://www.youtube.com/watch?v=dNaJg-mLobQ
     - [ ] Khan Academy:
         - Course layout:
@@ -697,7 +697,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
     - Know about the most famous classes of NP-complete problems, such as traveling salesman and the knapsack problem,
         and be able to recognize them when an interviewer asks you them in disguise.
     - Know what NP-complete means.
-    - [ ] Computational Complexity: https://www.youtube.com/watch?v=moPtwq_cVH8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=23
+    - [x] Computational Complexity: https://www.youtube.com/watch?v=moPtwq_cVH8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=23
     - [ ] Simonson:
         - [ ] https://youtu.be/qcGnJ47Smlo?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=2939
         - [ ] https://www.youtube.com/watch?v=e0tGC6ZQdQE&index=16&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm
