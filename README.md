@@ -288,7 +288,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
 
 - ### Endianness
     - [ ] https://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Data/endian.html
-    - [ ] https://www.youtube.com/watch?v=JrNF0KRAlyo
+    - [x] https://www.youtube.com/watch?v=JrNF0KRAlyo
     - [ ] https://www.youtube.com/watch?v=oBSuXP-1Tc0
         - Very technical talk for kernel devs. Don't worry if most is over your head.
         - The first half is enough.
@@ -353,7 +353,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
         - preorder (DFS: self, left, right)
 
 - ### Binary search trees: BSTs
-    - [ ] Binary Search Tree Review: https://www.youtube.com/watch?v=x6At0nzX92o&index=1&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6
+    - [x] Binary Search Tree Review: https://www.youtube.com/watch?v=x6At0nzX92o&index=1&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6
     - [ ] Series: https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/p82sw/core-introduction-to-binary-search-trees
         - starts with symbol table and goes through BST applications
     - [ ] https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction
