@@ -457,7 +457,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
             Splay trees are typically used in the implementation of caches, memory allocators, routers, garbage collectors,
             data compression, ropes (replacement of string used for long text strings), in Windows NT (in the virtual memory,
             networking, and file system code) etc.
-        - [ ] CS 61B: Splay Trees: https://www.youtube.com/watch?v=Najzh1rYQTo&index=23&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd
+        - [x] CS 61B: Splay Trees: https://www.youtube.com/watch?v=Najzh1rYQTo&index=23&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd
         - [ ] MIT Lecture: Splay Trees:
                 - Gets very mathy, but watch the last 10 minutes for sure.
                 - https://www.youtube.com/watch?v=QnPl_Y6EqMo
