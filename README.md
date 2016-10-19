@@ -205,7 +205,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
     - [ ] Linked List vs Arrays:
         - https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays
         - https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays
-    - [ ] why you should avoid linked lists:
+    - [x] why you should avoid linked lists:
         - https://www.youtube.com/watch?v=YQs6IC-vgmo
     - [ ] Gotcha: you need pointer to pointer knowledge:
         (for when you pass a pointer to a function that may change the address where that pointer points)
