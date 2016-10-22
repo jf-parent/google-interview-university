@@ -504,7 +504,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
             the Completely Fair Scheduler used in current Linux kernels uses red–black trees. In the version 8 of Java,
             the Collection HashMap has been modified such that instead of using a LinkedList to store identical elements with poor
             hashcodes, a Red-Black tree is used.
-        - [ ] Aduni - Algorithms - Lecture 4
+        - [x] Aduni - Algorithms - Lecture 4
             link jumps to starting point:
             https://youtu.be/1W3x0f_RmUo?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3871
         - [ ] Aduni - Algorithms - Lecture 5: https://www.youtube.com/watch?v=hm2GHwyKF1o&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=5
