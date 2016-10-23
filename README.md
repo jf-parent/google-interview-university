@@ -723,7 +723,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
 
 - ### Caches
     - [ ] LRU cache:
-        - [ ] The Magic of LRU Cache (100 Days of Google Dev): https://www.youtube.com/watch?v=R5ON3iwx78M
+        - [x] The Magic of LRU Cache (100 Days of Google Dev): https://www.youtube.com/watch?v=R5ON3iwx78M
         - [ ] Implementing LRU: https://www.youtube.com/watch?v=bq6N7Ym81iI
         - [ ] LeetCode - 146 LRU Cache (C++): https://www.youtube.com/watch?v=8-FZRAjR7qU
     - [ ] CPU cache:
@@ -919,7 +919,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
 
 - ### About Google
     - [ ] How Search Works:
-        - [ ] The Evolution of Search: https://www.youtube.com/watch?v=mTBShTwCnD4
+        - [x] The Evolution of Search: https://www.youtube.com/watch?v=mTBShTwCnD4
         - [ ] How Search Works - the story: https://www.google.com/insidesearch/howsearchworks/thestory/
         - [ ] How Search Works: https://www.google.com/insidesearch/howsearchworks/
         - [ ] How Search Works - Matt Cutts: https://www.youtube.com/watch?v=BNHR6IQJGZs
