@@ -488,7 +488,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
             block in a particular file. The basic problem is turning the file block i address into a disk block
             (or perhaps to a cylinder-head-sector) address.
         - [ ] B-Tree: https://en.wikipedia.org/wiki/B-tree
-        - [ ] Introduction to B-Trees: https://www.youtube.com/watch?v=I22wEC1tTGo&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6&index=6
+        - [x] Introduction to B-Trees: https://www.youtube.com/watch?v=I22wEC1tTGo&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6&index=6
         - [ ] B-Tree Definition and Insertion: https://www.youtube.com/watch?v=s3bCdZGrgpA&index=7&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6
         - [ ] B-Tree Deletion: https://www.youtube.com/watch?v=svfnVhJOfMc&index=8&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6
         - [ ] MIT 6.851 - Memory Hierarchy Models: https://www.youtube.com/watch?v=V3omVLzI0WE&index=7&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf
