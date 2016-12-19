@@ -337,7 +337,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
     - traversal
     - manipulation algorithms
     - BFS (breadth-first search)
-        - MIT: https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=13
+        - MIT: [x] https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=13
         - level order (BFS, using queue)
             time complexity: O(n)
             space complexity: best: O(1), worst: O(n/2)=O(n)
