@@ -294,7 +294,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
         - The first half is enough.
 
 - ### Binary search
-    - [ ] https://www.youtube.com/watch?v=D5SrAga1pno
+    - [x] https://www.youtube.com/watch?v=D5SrAga1pno
     - [ ] https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search
     - [ ] detail: https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/
     - [ ] Implement:
