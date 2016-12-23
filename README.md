@@ -761,8 +761,8 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - [ ] Understanding the Python GIL (2010): https://www.youtube.com/watch?v=Obt-vMVdM8s
             - reference: http://www.dabeaz.com/GIL
         - [ ] David Beazley - Python Concurrency From the Ground Up: LIVE! - PyCon 2015: https://www.youtube.com/watch?v=MCs5OvhV9S4
-        - [ ] Keynote David Beazley - Topics of Interest (Python Asyncio): https://www.youtube.com/watch?v=ZzfHjytDceU
-        - [ ] Mutex in Python: https://www.youtube.com/watch?v=0zaPs8OtyKY
+        - [x] Keynote David Beazley - Topics of Interest (Python Asyncio): https://www.youtube.com/watch?v=ZzfHjytDceU
+        - [x] Mutex in Python: https://www.youtube.com/watch?v=0zaPs8OtyKY
 
 
     Scalability and System Design are very large topics with many topics and resources, since there is a lot to consider 
