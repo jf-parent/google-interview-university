@@ -537,7 +537,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
 - [ ] Analyzing Bubble Sort: https://www.youtube.com/watch?v=ni_zk257Nqo&index=7&list=PL89B61F78B552C1AB
 - [ ] Insertion Sort, Merge Sort: https://www.youtube.com/watch?v=Kg4bqzAqRBM&index=3&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
 - [ ] Insertion Sort: https://www.youtube.com/watch?v=c4BRHC7kTaQ&index=2&list=PL89B61F78B552C1AB
-- [ ] Merge Sort: https://www.youtube.com/watch?v=GCae1WNvnZM&index=3&list=PL89B61F78B552C1AB
+- [x] Merge Sort: https://www.youtube.com/watch?v=GCae1WNvnZM&index=3&list=PL89B61F78B552C1AB
 - [ ] Quicksort: https://www.youtube.com/watch?v=y_G9BkAm6B8&index=4&list=PL89B61F78B552C1AB
 - [x] Selection Sort: https://www.youtube.com/watch?v=6nDMgr0-Yyo&index=8&list=PL89B61F78B552C1AB
 
