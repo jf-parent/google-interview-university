@@ -847,7 +847,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - [ ] Scale at Facebook (2009): https://www.infoq.com/presentations/Scale-at-Facebook
         - [ ] Scale at Facebook (2012), "Building for a Billion Users": https://www.youtube.com/watch?v=oodS71YtkGU
         - [ ] Engineering for the Long Game - Astrid Atkinson Keynote: https://www.youtube.com/watch?v=p0jGmgIrf_M&list=PLRXxvay_m8gqVlExPC5DG3TGWJTaBgqSA&index=4
-        - [ ] 7 Years Of YouTube Scalability Lessons In 30 Minutes: http://highscalability.com/blog/2012/3/26/7-years-of-youtube-scalability-lessons-in-30-minutes.html
+        - [x] 7 Years Of YouTube Scalability Lessons In 30 Minutes: http://highscalability.com/blog/2012/3/26/7-years-of-youtube-scalability-lessons-in-30-minutes.html
             - video: https://www.youtube.com/watch?v=G-lGCC4KKok
         - [ ] How PayPal Scaled To Billions Of Transactions Daily Using Just 8VMs: http://highscalability.com/blog/2016/8/15/how-paypal-scaled-to-billions-of-transactions-daily-using-ju.html
         - [ ] How to Remove Duplicates in Large Datasets: https://blog.clevertap.com/how-to-remove-duplicates-in-large-datasets/
