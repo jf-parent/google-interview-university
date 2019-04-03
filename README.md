@@ -419,8 +419,8 @@ Then test it out on a computer to make sure it's not buggy from syntax.
     - [ ] http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#Tries
     - [ ] Short course videos:
         - [x] https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/08Xyf/core-introduction-to-tries
-        - [ ] https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/PvlZW/core-performance-of-tries
-        - [ ] https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/DFvd3/core-implementing-a-trie
+        - [x] https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/PvlZW/core-performance-of-tries
+        - [x] https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/DFvd3/core-implementing-a-trie
     - [ ] The Trie: A Neglected Data Structure: https://www.toptal.com/java/the-trie-a-neglected-data-structure
     - [ ] TopCoder - Using Tries: https://www.topcoder.com/community/data-science/data-science-tutorials/using-tries/
     - [ ] Stanford Lecture (real world use case): https://www.youtube.com/watch?v=TJ8SkcUSdbU
