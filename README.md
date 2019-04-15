@@ -56,7 +56,7 @@ You'll see some C, C++, and Python learning included below, because I'm learning
 - [ ] **C**
     - [ ] [ANSI C Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/C%20Reference%20Card%20(ANSI)%202.2.pdf)
     - [ ] K&R C book (ANSI C)
-    - [ ] Clang: https://www.youtube.com/watch?v=U3zCxnj2w8M
+    - [x] Clang: https://www.youtube.com/watch?v=U3zCxnj2w8M
     - [ ] GDB:
         - https://www.youtube.com/watch?v=USPvePv1uzE
         - https://www.youtube.com/watch?v=y5JmQItfFck
